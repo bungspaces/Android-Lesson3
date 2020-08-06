@@ -1,0 +1,53 @@
+<!--
+  ~ Copyright (C) 2018 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Portal Baca Berita</string>
+    <string name="article_title1">PBB > KARIR</string>
+    <string name="article_subtitle1">Prospek Karir Menjadi UI Designer</string>
+    <string name="article_text1"><b>Jakarta (JKT)</b> - Perkembangan teknologi saat ini menuntut suatu produk agar mudah dipahami dan digunakan oleh penggunanya. Untuk itulah peran UI/UX menjadi sangat vital sebagai penghubung kebutuhan pengguna dan juga tujuan suatu bisnis.
+Di artikel kali ini kita akan berkenalan lebih dahulu dengan role atau posisi di bidang UI/UX.
+Disclaimer: Artikel ini bukan untuk menjadi patokan, tapi hanya untuk referensi / gambaran mengenai role di bidang UI/UX. Tentu desain yang kanan, karena kata kata nya memberikan Anda petunjuk.
+UX Copywriter membuat teks pada website/aplikasi atau produk digital terasa bersahabat, informatif dan membuat user cepat menangkap pesannya tanpa kebanyakan berasumsi. Sehingga membuat user merasa percaya diri dalam menggunakan suatu produk. Dalam membuat sebuah alur ataupun solusi tersebut mereka menggunakan berbagai cara. Mulai dari membuat wireframe, mengujikannya kepada orang orang, melakukan iterasi ketika dirasa solusi nya tidak tepat, dll.
+Solusi yang didapatkan oleh UX Designer ini nanti nya akan dikomunikasikan ke stakeholder (UI Designer, Engineer, PM, dll) dan akan akan dikembangkan untuk menjadi sebuah produk ataupun fitur.
+ </string>
+
+    <string name="article_title2">PBB > POLITIK</string>
+    <string name="article_subtitle2">RKUHP: Hukuman koruptor makin enteng, korupsi makin marak</string>
+    <string name="article_text2"><b>Jakarta (JKT)</b> - Hukuman bagi koruptor yang diatur dalam sejumlah pasal pada Rancangan Kitab Undang Undang Hukum Pidana (RKUHP) lebih ringan jika dibandingkan dengan yang tertera pada Undang Undang Pemberantasan Tindak Pidana Korupsi (UU Tipikor).
+
+Peneliti Pusat Kajian Anti Korupsi (Pukat) dari Universitas Gadjah Mada, Zaenur Rohman, menilai langkah ini akan membuat korupsi di Indonesia bisa semakin marak dan efek jera bagi koruptor akan berkurang.
+
+"Dari sisi ancaman pidana turun, menjadi berkurang ancamannya," katanya kepada wartawan Muhamamd Irham untuk BBC News Indonesia, Rabu (04/09).
+
+Selain itu, lanjut Zaenur, dengan berkurangnya ketentuan minimum denda kepada koruptor, akan semakin sulit untuk mengembalikan kerugian negara.
+
+"Itu bahaya karena dengan hilangnya uang pengganti maka upaya pengembalian uang kejahatan itu menjadi susah," katanya.</string>
+
+    <string name="article_title3">PBB > OLAHRAGA</string>
+    <string name="article_subtitle3">Solskjaer Buka Peluang Permanenkan Ighalo di Manchester United</string>
+    <string name="article_text3"><b>Manchester (ENG)</b> - Ole Gunnar Solskjaer tengah mempertimbangkan keputusan untuk mempermanenkan penyerang anyar mereka, Odion Ighalo. Pelatih Manchester United itu bahkan menyebut kehadiran sang penyerang Nigeria sebagai udara segar.
+
+Ighalo didatangkan pada akhir bursa musim dingin lalu sebagai transfer kejutan. Manchester United yang tengah mengalami krisis penyerang di Liga Inggris akibat cederanya Marcus Rashford dikait-kaitkan dengan sejumlah penyerang seperti Edinson Cavani dan Paco Alacer. Namun, Solskjaer justru memilih mendatangkan Ighalo dari klub peserta Liga Super China, Shanghai Shenhua ke Manchester United.
+
+Keputusan itu sempat menimbulkan pertanyaan besar dari sejumlah pihak, mengingat Ighalo tidak punya pengalaman bermain di klub besar.
+
+
+Meskipun berpengalaman bermain selama tiga tahun di Liga Primer Inggris, saat itu ia hanya memperkuat klub medioker, Watford, dengan catatan 40 gol dari 100 penampilan di semua kompetisi.
+
+Baca selengkapnya: https://www.indosport.com/sepakbola/20200305/solskjaer-buka-peluang-permanenkan-ighalo-di-manchester-united</string>
+
+</resources>
